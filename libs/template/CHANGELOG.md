@@ -1,3 +1,24 @@
+## 21.2.0 (2026-03-17)
+
+### 🚀 Features
+
+- **template:** add scrollMargin configuration to RxVirtualView ([ab6a5634](https://github.com/rx-angular/rx-angular/commit/ab6a5634))
+- **template:** add runtime enable/disable support for VirtualView ([ba1874df](https://github.com/rx-angular/rx-angular/commit/ba1874df))
+- **template:** add  PLATFORM and `effectOnceIf` utilities ([d892044b](https://github.com/rx-angular/rx-angular/commit/d892044b))
+- **template:** add `assertInjector` utility from ngxtension ([d614d4d9](https://github.com/rx-angular/rx-angular/commit/d614d4d9))
+
+### 🩹 Fixes
+
+- **template:** handle delayed content in VirtualView directive ([e21fe9a2](https://github.com/rx-angular/rx-angular/commit/e21fe9a2))
+
+### 🧱 Updated Dependencies
+
+- Updated cdk to 21.1.0
+
+### ❤️ Thank You
+
+- Enea Jahollari
+
 ## 21.1.0 (2026-03-05)
 
 ### 🚀 Features

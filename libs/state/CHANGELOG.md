@@ -1,3 +1,9 @@
+## 21.1.1 (2026-03-17)
+
+### 🧱 Updated Dependencies
+
+- Updated cdk to 21.1.0
+
 ## 21.1.0 (2026-03-05)
 
 ### 🚀 Features

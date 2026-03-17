@@ -1,3 +1,14 @@
+## 21.1.0 (2026-03-17)
+
+### 🚀 Features
+
+- **cdk:** introduce PLATFORM token ([3bfd804f](https://github.com/rx-angular/rx-angular/commit/3bfd804f))
+- **cdk:** introduce HydrationTracker utility for SSR ([f7a789cf](https://github.com/rx-angular/rx-angular/commit/f7a789cf))
+
+### ❤️ Thank You
+
+- Enea Jahollari
+
 ## 21.0.1 (2026-03-05)
 
 ### 🩹 Fixes
